@@ -1,5 +1,5 @@
 
-Issues are ordered by priority:
+##Issues are ordered by priority:
 
 - Critical
 - Doing
